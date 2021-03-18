@@ -1,0 +1,50 @@
+
+·
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜòÓÚ8ì½ó˜÷.Hô{RCRITICALZ
+CODE_SMELL
+l	java:S106ª"9Replace this use of System.out or System.err by a logger.(¢Û“Ê8¥£›÷.Hõ|RMAJORZ
+CODE_SMELL
+N
+java:S21899""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHüuRBLOCKERZBUG
+e	java:S106©"9Replace this use of System.out or System.err by a logger.(ÿÏÅÿH‚vRMAJORZ
+CODE_SMELL
+b
+java:S1135b"2Complete the task associated to this TODO comment.(½è®ùÿÿÿÿHƒvRINFOZ
+CODE_SMELL
+d	java:S106%"9Replace this use of System.out or System.err by a logger.(ÏÇ››H‹vRMAJORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHˆvRMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(çÈÜ¡ıÿÿÿÿHşuRMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿ8¶ÿ‚õö.HšvRMAJORZ
+CODE_SMELL
+j	java:S106˜"9Replace this use of System.out or System.err by a logger.(ñŸÊ„ıÿÿÿÿHŠvRMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ÿâöøÿÿÿÿH€vRMAJORZ
+CODE_SMELL
+j	java:S106h"9Replace this use of System.out or System.err by a logger.(Ê¿—W8ÁªÉœ÷.H¤|RMAJORZ
+CODE_SMELL
+e	java:S106¡"9Replace this use of System.out or System.err by a logger.(¦¼¸²HvRMAJORZ
+CODE_SMELL
+e	java:S106š"9Replace this use of System.out or System.err by a logger.(ÂüœßHÿuRMAJORZ
+CODE_SMELL
+d	java:S106r"9Replace this use of System.out or System.err by a logger.(ŒèÂ÷H‡vRMAJORZ
+CODE_SMELL
+b
+java:S1135]"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH„vRINFOZ
+CODE_SMELL
+k	java:S106d"9Replace this use of System.out or System.err by a logger.(¸óÉ’8¡Áµœ÷.Hş{RMAJORZ
+CODE_SMELL
+s
+java:S1128"BRemove this unused import 'com.techelevator.tenmo.models.Account'.(‚Ÿ“ÈÿÿÿÿÿHıuRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(«ç†¿ùÿÿÿÿHŒvRMAJORZ
+CODE_SMELL
+b
+java:S1135X"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH†vRINFOZ
+CODE_SMELL
+j	java:S106›"9Replace this use of System.out or System.err by a logger.(×ÉÍÜúÿÿÿÿH‰vRMAJORZ
+CODE_SMELL
+d	java:S106S"9Replace this use of System.out or System.err by a logger.(Ñ¢åÌHvRMAJORZ
+CODE_SMELL

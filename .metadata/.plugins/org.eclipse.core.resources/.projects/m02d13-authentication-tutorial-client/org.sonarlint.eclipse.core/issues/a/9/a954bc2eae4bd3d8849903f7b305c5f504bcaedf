@@ -1,0 +1,40 @@
+
+‚
+java:S1104
+"VMake AUTH_TOKEN a static final constant or non-public and provide accessors if needed.(ÔúËßHÙfRMINORZ
+CODE_SMELL
+\
+java:S1444
+"0Make this "public static AUTH_TOKEN" field final(ÔúËßHÕfRMINORZ
+CODE_SMELL
+g
+java:S3740g"/Provide the parametrized type for this generic.(¡Õöùÿÿÿÿ8ÁóËûõ.HçfRMAJORZ
+CODE_SMELL
+|	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ôâH×fRMINORZ
+CODE_SMELL
+W
+java:S1068"+Remove this unused "console" private field.(à»ôœHİfRMAJORZ
+CODE_SMELL
+b
+java:S3740j"/Provide the parametrized type for this generic.(÷÷ˆÎ8™«üõ.HòfRMAJORZ
+CODE_SMELL
+Š
+java:S1488Q"^Immediately return this expression instead of assigning it to the temporary variable "entity".(Ë”æäHÚfRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(˜ó®8™«üõ.HôfRMAJORZ
+CODE_SMELL
+‘
+java:S1488j"^Immediately return this expression instead of assigning it to the temporary variable "entity".(÷÷ˆÎ8™«üõ.HófRMINORZ
+CODE_SMELL
+
+java:S3008
+"URename this field "AUTH_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔúËßHÛfRMINORZ
+CODE_SMELL
+~	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢ÁHÜfRMINORZ
+CODE_SMELL
+|	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄŞèÿHØfRMINORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(˜ó®8¡±¬üõ.HüfRMAJORZ
+CODE_SMELL
+	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„œ‹üÿÿÿÿHÖfRMINORZ
+CODE_SMELL

@@ -1,0 +1,62 @@
+
+d	java:S106L"9Replace this use of System.out or System.err by a logger.(ç‡ú«HîdRMAJORZ
+CODE_SMELL
+X
+java:S1172ž"&Remove these unused method parameters.(°«¾úÿÿÿÿHïdRMAJORZ
+CODE_SMELL
+j	java:S106Ý"9Replace this use of System.out or System.err by a logger.(ïù¶×üÿÿÿÿHòdRMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(áûˆ¤HódRMAJORZ
+CODE_SMELL
+`
+java:S1481t"/Remove this unused "employeeId" local variable.(ÎÃšÆúÿÿÿÿHôdRMINORZ
+CODE_SMELL
+o
+java:S1854t">Remove this useless assignment to local variable "employeeId".(ÎÃšÆúÿÿÿÿHõdRMAJORZ
+CODE_SMELL
+i	java:S106D"9Replace this use of System.out or System.err by a logger.(Èíë•ûÿÿÿÿHödRMAJORZ
+CODE_SMELL
+c	java:S106b"9Replace this use of System.out or System.err by a logger.(ªï½H÷dRMAJORZ
+CODE_SMELL
+e	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÓÛ³ûHødRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ßì”ýÿÿÿÿHùdRMAJORZ
+CODE_SMELL
+p
+java:S1854¬">Remove this useless assignment to local variable "employeeId".(ÎÃšÆúÿÿÿÿHúdRMAJORZ
+CODE_SMELL
+j	java:S106µ"9Replace this use of System.out or System.err by a logger.(å ±üÿÿÿÿÿHûdRMAJORZ
+CODE_SMELL
+a
+java:S1481¬"/Remove this unused "employeeId" local variable.(ÎÃšÆúÿÿÿÿHüdRMINORZ
+CODE_SMELL
+W
+java:S1172S"&Remove these unused method parameters.(‹ªÂ­øÿÿÿÿHýdRMAJORZ
+CODE_SMELL
+b
+java:S1135E"2Complete the task associated to this TODO comment.(è†²øúÿÿÿÿH‚eRINFOZ
+CODE_SMELL
+]
+java:S1135 "2Complete the task associated to this TODO comment.(ó«Ö³HƒeRINFOZ
+CODE_SMELL
+e	java:S106”"9Replace this use of System.out or System.err by a logger.(úÊÌÚH„eRMAJORZ
+CODE_SMELL
+g
+java:S1144¹"3Remove this unused private "updateEmployee" method.(Ü’áÞ8ÑôõÙõ.H…eRMAJORZ
+CODE_SMELL
+i	java:S1062"9Replace this use of System.out or System.err by a logger.(íØä‚øÿÿÿÿH†eRMAJORZ
+CODE_SMELL
+s	java:S125F"<This block of commented-out lines of code should be removed.(ýÅî¯ýÿÿÿÿ8ÑôõÙõ.H‡eRMAJORZ
+CODE_SMELL
+i	java:S106}"9Replace this use of System.out or System.err by a logger.(„ó‡ŽúÿÿÿÿHˆeRMAJORZ
+CODE_SMELL
+]
+java:S11353"2Complete the task associated to this TODO comment.(ªÎŽÉH‰eRINFOZ
+CODE_SMELL
+d	java:S106<"9Replace this use of System.out or System.err by a logger.(Á­îHŠeRMAJORZ
+CODE_SMELL
+]
+java:S1135G"2Complete the task associated to this TODO comment.(î®áøH‹eRINFOZ
+CODE_SMELL
+j	java:S106š"9Replace this use of System.out or System.err by a logger.(„ó‡ŽúÿÿÿÿHŒeRMAJORZ
+CODE_SMELL

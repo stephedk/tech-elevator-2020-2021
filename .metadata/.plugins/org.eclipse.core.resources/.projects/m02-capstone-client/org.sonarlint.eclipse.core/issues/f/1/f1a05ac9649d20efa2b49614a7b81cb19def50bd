@@ -1,0 +1,38 @@
+
+ˆ
+java:S1128"WRemove this unused import 'org.springframework.web.client.RestClientResponseException'.(˜ß”÷ıÿÿÿÿHòuRMINORZ
+CODE_SMELL
+e
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿHğuRMINORZ
+CODE_SMELL
+`
+java:S3740-"/Provide the parametrized type for this generic.(¡ÕöùÿÿÿÿHìuRMAJORZ
+CODE_SMELL
+Š
+java:S14880"^Immediately return this expression instead of assigning it to the temporary variable "entity".(÷÷ˆÎHîuRMINORZ
+CODE_SMELL
+~	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢ÁHöuRMINORZ
+CODE_SMELL
+d	java:S106("9Replace this use of System.out or System.err by a logger.(Ó ªçHøuRMAJORZ
+CODE_SMELL
+{
+java:S1128"JRemove this unused import 'com.techelevator.tenmo.models.UserCredentials'.(¦¥•êúÿÿÿÿHñuRMINORZ
+CODE_SMELL
+s
+java:S1128"BRemove this unused import 'com.techelevator.tenmo.models.Account'.(‚Ÿ“ÈÿÿÿÿÿHóuRMINORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒşÿÿÿÿHôuRMINORZ
+CODE_SMELL
+[
+java:S37400"/Provide the parametrized type for this generic.(÷÷ˆÎHíuRMAJORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHõuRMINORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(¶‹ úÿÿÿÿH÷uRMAJORZ
+CODE_SMELL
+p
+java:S1128
+"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿHïuRMINORZ
+CODE_SMELL

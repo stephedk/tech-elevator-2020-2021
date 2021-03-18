@@ -1,0 +1,45 @@
+
+o
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ8÷€„ùö.H«yRMINORZ
+CODE_SMELL
+q
+java:S1128">Remove this unused import 'com.techelevator.tenmo.model.User'.(ã‘‘ı8÷€„ùö.H©yRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Öëá˜÷.HË{RINFOZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'com.techelevator.tenmo.model.Account'.(ê‚‰»ûÿÿÿÿ8÷€„ùö.H§yRMINORZ
+CODE_SMELL
+i
+java:S1135""2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Öëá˜÷.HÇ{RINFOZ
+CODE_SMELL
+i
+java:S1135?"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Öëá˜÷.HÈ{RINFOZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8÷€„ùö.H­yRMINORZ
+CODE_SMELL
+[
+java:S2200+"/Only the sign of the result should be examined.(ÁµÑ×8““‘ ÷.Hµ}RMINORZBUG
+^
+java:S1168@"+Return an empty collection instead of null.(¥¹ï8Öëá˜÷.HÉ{RMAJORZ
+CODE_SMELL
+†
+java:S1128"NRemove this unused import 'org.springframework.jdbc.support.rowset.SqlRowSet'.(‰ğî›øÿÿÿÿ8÷€„ùö.HªyRMINORZ
+CODE_SMELL
+‚
+java:S1128
+"PRemove this unused import 'org.springframework.jdbc.support.GeneratedKeyHolder'.(’Å“(8÷€„ùö.H¤yRMINORZ
+CODE_SMELL
+^
+java:S1168"+Return an empty collection instead of null.(¥¹ï8Öëá˜÷.HÄ{RMAJORZ
+CODE_SMELL
+i
+java:S1135E"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Öëá˜÷.HÅ{RINFOZ
+CODE_SMELL
+[
+java:S2200+"/Only the sign of the result should be examined.(ÁµÑ×8““‘ ÷.H´}RMINORZBUG
+i
+java:S11359"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8´™åÊ÷.HÓ~RINFOZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+y
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™šœßıÿÿÿÿH¤fRMINORZ
+CODE_SMELL
+{
+java:S44888"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ïüòØ8¶êÇÔô.HšfRMINORZ
+CODE_SMELL
+	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùÉúøÿÿÿÿH¡fRMINORZ
+CODE_SMELL
+
+java:S4488?"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(âÚıØ8ÈöúÔô.HfRMINORZ
+CODE_SMELL
+	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùÉúøÿÿÿÿH fRMINORZ
+CODE_SMELL
+t
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(€¬ıÙHœfRMINORZ
+CODE_SMELL
+{
+java:S44883"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(íéÖ¨üÿÿÿÿH¢fRMINORZ
+CODE_SMELL

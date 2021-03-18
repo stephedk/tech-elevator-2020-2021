@@ -1,0 +1,13 @@
+
+”
+java:S1157/"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(·èíÈûÿÿÿÿH²zRMINORZ
+CODE_SMELL
+|	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈùƒH³zRMINORZ
+CODE_SMELL
+	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äû•ìûÿÿÿÿH´zRMINORZ
+CODE_SMELL
+p
+java:S2259H"FA "NullPointerException" could be thrown; "getKeys()" can return null.(ï°¶ÓüÿÿÿÿHµzRMAJORZBUG
+Ä
+java:S1130-"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(çŞãùÿÿÿÿH¸zRMINORZ
+CODE_SMELL

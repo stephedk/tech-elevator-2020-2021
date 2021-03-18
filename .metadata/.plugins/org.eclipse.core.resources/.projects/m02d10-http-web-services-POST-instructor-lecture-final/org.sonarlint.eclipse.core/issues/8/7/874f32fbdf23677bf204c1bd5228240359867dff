@@ -1,0 +1,23 @@
+
+v
+java:S2259Q"QA "NullPointerException" could be thrown; "reservationToUpdate" is nullable here.(©ô“üHÓ]RMAJORZBUG
+|	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(… ±™H×]RMINORZ
+CODE_SMELL
+ƒ	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôâ ×üÿÿÿÿHØ]RMINORZ
+CODE_SMELL
+Š
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(áçæøÿÿÿÿHÙ]RMINORZ
+CODE_SMELL
+g	java:S125?"<This block of commented-out lines of code should be removed.(¹ñùöHÚ]RMAJORZ
+CODE_SMELL
+…
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ñÆËHÛ]RMINORZ
+CODE_SMELL
+]
+java:S1135a"2Complete the task associated to this TODO comment.(‡ñÅ¼HÜ]RINFOZ
+CODE_SMELL
+}
+java:S1192Q"NDefine a constant instead of duplicating this literal "reservations/" 3 times.(©ô“üHİ]RCRITICALZ
+CODE_SMELL
+‚	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÜÛ™ûÿÿÿÿHá]RMINORZ
+CODE_SMELL

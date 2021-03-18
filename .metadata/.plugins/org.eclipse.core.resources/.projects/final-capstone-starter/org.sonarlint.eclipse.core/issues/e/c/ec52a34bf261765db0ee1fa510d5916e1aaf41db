@@ -1,0 +1,45 @@
+
+k
+java:S1854S"9Remove this useless assignment to local variable "image".(°İÜâúÿÿÿÿHäŠRMAJORZ
+CODE_SMELL
+k
+java:S1854¸"=Remove this useless assignment to local variable "nullCheck".(ö„½ÔHåŠRMAJORZ
+CODE_SMELL
+k
+java:S1854+"9Remove this useless assignment to local variable "image".(°İÜâúÿÿÿÿHæŠRMAJORZ
+CODE_SMELL
+r	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(ÖâÅ„HçŠRMAJORZ
+CODE_SMELL
+i
+java:S1854y"<Remove this useless assignment to local variable "newImage".(°ëéáHèŠRMAJORZ
+CODE_SMELL
+Z
+java:S1481y"-Remove this unused "newImage" local variable.(°ëéáHéŠRMINORZ
+CODE_SMELL
+q	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(£˜¨zHêŠRMAJORZ
+CODE_SMELL
+€
+java:S11927"PDefine a constant instead of duplicating this literal " was not found." 3 times.(Š‹¹¬HëŠRCRITICALZ
+CODE_SMELL
+s	java:S112Å"FDefine and throw a dedicated exception instead of using a generic one.(›¼­‡HïŠRMAJORZ
+CODE_SMELL
+r	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Š‹¹¬HğŠRMAJORZ
+CODE_SMELL
+p
+java:S1854º"=Remove this useless assignment to local variable "nullCheck".(ÉœÿòùÿÿÿÿHñŠRMAJORZ
+CODE_SMELL
+}
+java:S1192"MDefine a constant instead of duplicating this literal "FROM images " 5 times.(šññ»HòŠRCRITICALZ
+CODE_SMELL
+o
+java:S1126§"AReplace this if-then-else statement by a single return statement.(—º×íHøŠRMINORZ
+CODE_SMELL
+
+java:S1192"JDefine a constant instead of duplicating this literal "SELECT * " 5 times.(ó™ˆ»úÿÿÿÿHùŠRCRITICALZ
+CODE_SMELL
+\
+java:S1481¸".Remove this unused "nullCheck" local variable.(ö„½ÔHÿŠRMINORZ
+CODE_SMELL
+k
+java:S1854?"9Remove this useless assignment to local variable "image".(°İÜâúÿÿÿÿH€‹RMAJORZ
+CODE_SMELL

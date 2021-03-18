@@ -1,0 +1,13 @@
+
+y
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åğˆÃøÿÿÿÿH¤TRMINORZ
+CODE_SMELL
+y
+java:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(éµíŸÿÿÿÿÿH¦TRMINORZ
+CODE_SMELL
+~
+java:S1128	"MRemove this unused import 'com.techelevator.reservations.models.Reservation'.(ìøåšúÿÿÿÿH£TRMINORZ
+CODE_SMELL
+]
+java:S1068"2Remove this unused "reservationDAO" private field.(Ñ˜NH¨TRMAJORZ
+CODE_SMELL

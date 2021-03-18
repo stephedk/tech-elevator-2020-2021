@@ -1,0 +1,10 @@
+
+ˆ
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(£‘ŸH«zRMINORZ
+CODE_SMELL
+
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "entity".(šÚ‡ÁüÿÿÿÿH¬zRMINORZ
+CODE_SMELL
+Š
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÚ‡ÁüÿÿÿÿH­zRMINORZ
+CODE_SMELL

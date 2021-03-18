@@ -1,0 +1,10 @@
+
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¢‹ÖþÿÿÿÿH‹YRMINORZ
+CODE_SMELL
+f
+java:S1118":Add a private constructor to hide the implicit public one.(ž¶ëìHŠYRMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¢‹ÖþÿÿÿÿHŒYRMINORZ
+CODE_SMELL

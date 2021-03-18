@@ -1,0 +1,41 @@
+
+j
+java:S1128">Remove this unused import 'com.techelevator.tenmo.model.User'.(ã‘‘ıHçvRMINORZ
+CODE_SMELL
+p	java:S106]"9Replace this use of System.out or System.err by a logger.(Õçÿ¹ùÿÿÿÿ8ğ´…”÷.HîyRMAJORZ
+CODE_SMELL
+j
+java:S2259?"EA "NullPointerException" could be thrown; "account" is nullable here.(Šø¬³HãvRMAJORZBUG
+W
+java:S1168"+Return an empty collection instead of null.(¥¹ïHêvRMAJORZ
+CODE_SMELL
+b
+java:S1135 "2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHìvRINFOZ
+CODE_SMELL
+l	java:S1252"<This block of commented-out lines of code should be removed.(Î´Ì“şÿÿÿÿHívRMAJORZ
+CODE_SMELL
+b
+java:S11352"2Complete the task associated to this TODO comment.(Î´Ì“şÿÿÿÿHîvRINFOZ
+CODE_SMELL
+h
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿHèvRMINORZ
+CODE_SMELL
+{
+java:S1128
+"PRemove this unused import 'org.springframework.jdbc.support.GeneratedKeyHolder'.(’Å“(HævRMINORZ
+CODE_SMELL
+p	java:S106k"9Replace this use of System.out or System.err by a logger.(ÊıÑ¡ÿÿÿÿÿ8Œ…ÏÊ÷.H™~RMAJORZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(íí‘Ë8Œ…ÏÊ÷.H˜~RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHëvRINFOZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHévRMINORZ
+CODE_SMELL
+b
+java:S1135D"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHïvRINFOZ
+CODE_SMELL
+p	java:S106x"9Replace this use of System.out or System.err by a logger.(ÊıÑ¡ÿÿÿÿÿ8Œ…ÏÊ÷.Hš~RMAJORZ
+CODE_SMELL

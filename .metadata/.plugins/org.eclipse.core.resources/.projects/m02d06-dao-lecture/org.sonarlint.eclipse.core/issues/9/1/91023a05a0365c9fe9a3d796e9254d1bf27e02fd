@@ -1,0 +1,32 @@
+
+{
+java:S2095e"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÍîØ»ùÿÿÿÿHê:RBLOCKERZBUG
+y
+java:S2095"MUse try-with-resources or close this "BasicDataSource" in a "finally" clause.(€‹€çûÿÿÿÿHè:RBLOCKERZBUG
+u
+java:S1192,"FDefine a constant instead of duplicating this literal "title" 3 times.(¶Ê®ëHë:RCRITICALZ
+CODE_SMELL
+d	java:S106@"9Replace this use of System.out or System.err by a logger.(›æŒÁHó:RMAJORZ
+CODE_SMELL
+i	java:S106i"9Replace this use of System.out or System.err by a logger.(èòì“úÿÿÿÿHö:RMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(Ž Ý¨ùÿÿÿÿHò:RMAJORZ
+CODE_SMELL
+i	java:S106n"9Replace this use of System.out or System.err by a logger.(ÄÊÍØûÿÿÿÿHô:RMAJORZ
+CODE_SMELL
+v
+java:S2095t"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(´šêêHæ:RBLOCKERZBUG
+{
+java:S2095["OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²ŠèŒüÿÿÿÿHå:RBLOCKERZBUG
+d	java:S106="9Replace this use of System.out or System.err by a logger.(ï’”œHõ:RMAJORZ
+CODE_SMELL
+d	java:S106T"9Replace this use of System.out or System.err by a logger.(ï’”œHð:RMAJORZ
+CODE_SMELL
+d	java:S106W"9Replace this use of System.out or System.err by a logger.(›æŒÁHñ:RMAJORZ
+CODE_SMELL
+d	java:S106*"9Replace this use of System.out or System.err by a logger.(Ï¯ò‹Hï:RMAJORZ
+CODE_SMELL
+s
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡ÀûÿÿÿÿHç:RBLOCKERZBUG
+v
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•ºó´Hé:RBLOCKERZBUG

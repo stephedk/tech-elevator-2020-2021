@@ -1,0 +1,31 @@
+
+
+java:S1157o"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(å”óÈHĞYRMINORZ
+CODE_SMELL
+
+java:S1157s"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ú·ÓªHÑYRMINORZ
+CODE_SMELL
+d
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿHÒYRMINORZ
+CODE_SMELL
+y
+java:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åğˆÃøÿÿÿÿHÓYRMINORZ
+CODE_SMELL
+y
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(éµíŸÿÿÿÿÿHÕYRMINORZ
+CODE_SMELL
+t
+java:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œ³¬H×YRMINORZ
+CODE_SMELL
+y
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ã‹®üÿÿÿÿHÙYRMINORZ
+CODE_SMELL
+t
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÄÖÙúHÛYRMINORZ
+CODE_SMELL
+{
+java:S4488W"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(È¥îåÿÿÿÿÿHİYRMINORZ
+CODE_SMELL
+t
+java:S4488d"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(âµØÒHßYRMINORZ
+CODE_SMELL

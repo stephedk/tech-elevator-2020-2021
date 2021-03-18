@@ -1,0 +1,16 @@
+
+{
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ïüòØ8¥À¿Òô.H›ZRMINORZ
+CODE_SMELL
+
+java:S44880"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(âÚıØ8«ÁÇÒô.H¡ZRMINORZ
+CODE_SMELL
+{
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Õ¡¤ùÿÿÿÿHˆZRMINORZ
+CODE_SMELL
+y
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™šœßıÿÿÿÿH„ZRMINORZ
+CODE_SMELL
+t
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(€¬ıÙH†ZRMINORZ
+CODE_SMELL

@@ -1,0 +1,34 @@
+
+Œ
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8‚Ôì‰ò.H°GRMINORZ
+CODE_SMELL
+“
+java:S1192"XDefine a constant instead of duplicating this literal "        , last_name\r\n" 4 times.(ÃòÕûÿÿÿÿ8Ê¬Ú‹ò.H±GRCRITICALZ
+CODE_SMELL
+‰
+java:S1192("NDefine a constant instead of duplicating this literal "department_id" 4 times.(ú¥€½şÿÿÿÿ8À©áçñ.H¶GRCRITICALZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÓúH»GRMINORZ
+CODE_SMELL
+Œ
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8Ğ¢­ãñ.H¼GRMINORZ
+CODE_SMELL
+€
+java:S1192*"JDefine a constant instead of duplicating this literal "last_name" 5 times.(û¥•é8ú½¯ãñ.H½GRCRITICALZ
+CODE_SMELL
+
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8À©áçñ.HÃGRMINORZ
+CODE_SMELL
+
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Óú8»Ùô‰ò.HÄGRMINORZ
+CODE_SMELL
+
+java:S1192G"RDefine a constant instead of duplicating this literal "FROM employee\r\n" 3 times.(ÂÇÔşÿÿÿÿ8Ê¬Ú‹ò.HÅGRCRITICALZ
+CODE_SMELL
+
+java:S1192)"KDefine a constant instead of duplicating this literal "first_name" 5 times.(¬´¤8ú½¯ãñ.HÉGRCRITICALZ
+CODE_SMELL
+’
+java:S1192"\Define a constant instead of duplicating this literal "        , department_id\r\n" 3 times.(½àÊ8Ê¬Ú‹ò.HÏGRCRITICALZ
+CODE_SMELL

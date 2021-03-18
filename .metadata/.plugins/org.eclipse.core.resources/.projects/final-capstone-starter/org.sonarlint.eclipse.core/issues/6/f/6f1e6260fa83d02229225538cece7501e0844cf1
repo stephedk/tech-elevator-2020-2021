@@ -1,0 +1,17 @@
+
+k
+java:S1155I">Use isEmpty() to check whether the collection is empty or not.(ÁÇ°ÒHÏ‰RMINORZ
+CODE_SMELL
+x	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(¶£í‡şÿÿÿÿHÎ‰RMAJORZ
+CODE_SMELL
+e
+java:S1128"8Remove this unused import 'com.techelevator.model.User'.(êÖÿHÑ‰RMINORZ
+CODE_SMELL
+r	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Š‹¹¬HÍ‰RMAJORZ
+CODE_SMELL
+Y
+java:S1481 "+Remove this unused "result" local variable.(ıï‚HÒ‰RMINORZ
+CODE_SMELL
+^
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠHĞ‰RMINORZ
+CODE_SMELL

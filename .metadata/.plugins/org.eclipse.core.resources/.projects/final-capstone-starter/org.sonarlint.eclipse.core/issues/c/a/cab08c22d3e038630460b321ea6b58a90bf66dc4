@@ -1,0 +1,27 @@
+
+
+java:S4488g"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(§éÑÿÿÿÿÿ8ÿþùØƒ/HŸŠRMINORZ
+CODE_SMELL
+u
+java:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÆøîçHš†RMINORZ
+CODE_SMELL
+u
+java:S4488O"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ðÄâÿH–†RMINORZ
+CODE_SMELL
+‚
+java:S4488W"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(•“ÛÏ8¼‚á—ƒ/HÀ†RMINORZ
+CODE_SMELL
+u
+java:S4488_"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŽÎÌH˜†RMINORZ
+CODE_SMELL
+|
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿH”†RMINORZ
+CODE_SMELL
+j
+java:S1155)">Use isEmpty() to check whether the collection is empty or not.(ÊËñsH’†RMINORZ
+CODE_SMELL
+l
+java:S1128"8Remove this unused import 'com.techelevator.model.User'.(êÖŽÿ8ÿþùØƒ/H›ŠRMINORZ
+CODE_SMELL
+o	java:S125I"<This block of commented-out lines of code should be removed.(Ú°à¬8ÿþùØƒ/HœŠRMAJORZ
+CODE_SMELL

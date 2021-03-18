@@ -1,0 +1,36 @@
+
+
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(¶¹HæiRMINORZ
+CODE_SMELL
+•
+java:S1157¤"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(à÷÷şÿÿÿÿHçiRMINORZ
+CODE_SMELL
+y
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åğˆÃøÿÿÿÿHèiRMINORZ
+CODE_SMELL
+y
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(éµíŸÿÿÿÿÿHêiRMINORZ
+CODE_SMELL
+t
+java:S4488?"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œ³¬HìiRMINORZ
+CODE_SMELL
+y
+java:S4488K"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ã‹®üÿÿÿÿHîiRMINORZ
+CODE_SMELL
+t
+java:S4488W"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÄÖÙúHğiRMINORZ
+CODE_SMELL
+{
+java:S4488d"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(È¥îåÿÿÿÿÿHòiRMINORZ
+CODE_SMELL
+y
+java:S4488s"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ˆ˜µÅüÿÿÿÿHôiRMINORZ
+CODE_SMELL
+{
+java:S4488‚"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(‡ôÖ÷HöiRMINORZ
+CODE_SMELL
+u
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(âµØÒHøiRMINORZ
+CODE_SMELL
+e	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÆÀûıHúiRMAJORZ
+CODE_SMELL

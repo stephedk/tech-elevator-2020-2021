@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.LocalArchetypeCatalogDialog">
+		<list key="catalogLocation">
+			<item value="C:\Users\Student\dev-tools\te-mvn-archetypes\te-archetype-catalog.xml"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\Week3_Review\java\final"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\13_Authentication\lecture-final\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\13_Authentication\student-exercise\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\13_Authentication\student-tutorial\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\06_Database_Connectivity_review\individual-exercise\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\Week3_Review\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\12_ServerSide_APIs_Part_2\student-exercise\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\12_ServerSide_APIs_Part_2\student-tutorial\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\12_ServerSide_APIs_Part_2\student-lecture\server"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\11_ServerSide_APIs_Part_1\instructor-lecture-final\server\java"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\11_ServerSide_APIs_Part_1\student-exercise\java"/>
+			<item value="C:\Users\Student\Downloads\locations (1)"/>
+			<item value="C:\Users\Student\Downloads\locations"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\11_ServerSide_APIs_Part_1\student-tutorial"/>
+			<item value="C:\Users\Student\workspace\stephen-kuchna\module-2\11_ServerSide_APIs_Part_1\student-tutorial\java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

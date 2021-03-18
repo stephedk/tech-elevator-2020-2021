@@ -1,0 +1,17 @@
+
+c
+java:S1135†"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH×;RINFOZ
+CODE_SMELL
+…
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ÒÝòHË;RMINORZ
+CODE_SMELL
+…
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(½ÒÝòHÊ;RMINORZ
+CODE_SMELL
+l	java:S125m"<This block of commented-out lines of code should be removed.(°µˆ—úÿÿÿÿHÌ;RMAJORZ
+CODE_SMELL
+w	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(ÍºìÔøÿÿÿÿHÉ;RMAJORZ
+CODE_SMELL
+c
+java:S1135Œ"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHØ;RINFOZ
+CODE_SMELL

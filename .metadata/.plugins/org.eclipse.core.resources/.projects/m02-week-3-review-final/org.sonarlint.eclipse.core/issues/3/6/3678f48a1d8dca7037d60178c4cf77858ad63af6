@@ -1,0 +1,7 @@
+
+ä
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "catFact".(È∫èYHÿjRMINORZ
+CODE_SMELL
+≤
+java:S1130"ÖRemove the declaration of thrown exception 'org.springframework.web.client.RestClientResponseException' which is a runtime exception.(É‚√ÿHŸjRMINORZ
+CODE_SMELL

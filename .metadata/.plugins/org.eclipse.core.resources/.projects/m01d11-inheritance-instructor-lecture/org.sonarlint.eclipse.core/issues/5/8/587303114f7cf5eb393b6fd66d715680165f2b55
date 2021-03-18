@@ -1,0 +1,38 @@
+
+†
+java:S1192"RDefine a constant instead of duplicating this literal "-----------------" 3 times.(Å˜õçüÿÿÿÿH8RCRITICALZ
+CODE_SMELL
+]
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠH‘8RMINORZ
+CODE_SMELL
+d	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ô¤ı±H’8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿH“8RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Óµ×»H”8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÌşéçûÿÿÿÿH•8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH–8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH—8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„ˆ€åüÿÿÿÿH˜8RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿH™8RMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(Š€úúÿÿÿÿHš8RMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(ÌşéçûÿÿÿÿH›8RMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHœ8RMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH8RMAJORZ
+CODE_SMELL
+i	java:S1062"9Replace this use of System.out or System.err by a logger.(ÙóÑÃşÿÿÿÿH8RMAJORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿHŸ8RMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(•ê†ŞùÿÿÿÿH 8RMAJORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+
+java:S1104"XMake restTemplate a static final constant or non-public and provide accessors if needed.(²¨¯ñıÿÿÿÿ8°Şš×õ.HædRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ü²§Áşÿÿÿÿ8ş½£×õ.HçdRMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'com.techelevator.model.CatPic'.(·Èéç8ş½£×õ.HèdRMINORZ
+CODE_SMELL
+d
+java:S1128",Remove this unused import 'java.io.Console'.(æÅªıÿÿÿÿ8ş½£×õ.HédRMINORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(Ş­˜şÿÿÿÿ8ş½£×õ.HêdRMAJORZ
+CODE_SMELL

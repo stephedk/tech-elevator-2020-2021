@@ -1,0 +1,34 @@
+
+
+java:S1157€"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(å”óÈH™URMINORZ
+CODE_SMELL
+
+java:S1157„"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ú·ÓªHšURMINORZ
+CODE_SMELL
+y
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åğˆÃøÿÿÿÿH›URMINORZ
+CODE_SMELL
+y
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(éµíŸÿÿÿÿÿHURMINORZ
+CODE_SMELL
+y
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œËãáşÿÿÿÿHŸURMINORZ
+CODE_SMELL
+{
+java:S4488:"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•ñÏÿÿÿÿÿH¡URMINORZ
+CODE_SMELL
+t
+java:S4488H"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(œ³¬H£URMINORZ
+CODE_SMELL
+y
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ã‹®üÿÿÿÿH¥URMINORZ
+CODE_SMELL
+t
+java:S4488^"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÄÖÙúH§URMINORZ
+CODE_SMELL
+{
+java:S4488i"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(È¥îåÿÿÿÿÿH©URMINORZ
+CODE_SMELL
+t
+java:S4488u"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(âµØÒH«URMINORZ
+CODE_SMELL

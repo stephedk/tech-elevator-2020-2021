@@ -1,0 +1,34 @@
+
+f
+java:S1068".Remove this unused "catCardDao" private field.(›„ïÙøÿÿÿÿ8“áê×õ.HœeRMAJORZ
+CODE_SMELL
+d
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿH–eRMINORZ
+CODE_SMELL
+c
+java:S1068"1Remove this unused "catPicService" private field.(ÅáÒ^8¬­•Ùõ.HšeRMAJORZ
+CODE_SMELL
+¬
+java:S1130"zRemove the declaration of thrown exception 'com.techelevator.model.CatCardNotFoundException' which is a runtime exception.( Úó8ÈÓÆ×õ.HeRMINORZ
+CODE_SMELL
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(È´–8éûÄ×õ.H—eRMINORZ
+CODE_SMELL
+q
+java:S1128
+"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿH›eRMINORZ
+CODE_SMELL
+^
+java:S1068"2Remove this unused "catFactService" private field.(ûÉİóH•eRMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'com.techelevator.model.CatPic'.(·Èéç8¬­•Ùõ.HeRMINORZ
+CODE_SMELL
+f
+java:S1128";Remove this unused import 'com.techelevator.model.CatFact'.(à§Ê2H™eRMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿH”eRMINORZ
+CODE_SMELL
+n	java:S125#"<This block of commented-out lines of code should be removed.(­Øº÷8Ì½ğõ.H™fRMAJORZ
+CODE_SMELL

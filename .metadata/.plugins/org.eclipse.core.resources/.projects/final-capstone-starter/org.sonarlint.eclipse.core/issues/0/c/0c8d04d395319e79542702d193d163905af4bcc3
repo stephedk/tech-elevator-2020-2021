@@ -1,0 +1,24 @@
+
+w	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(úä¯¶ıÿÿÿÿH¾‰RMAJORZ
+CODE_SMELL
+w	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(úä¯¶ıÿÿÿÿH¿‰RMAJORZ
+CODE_SMELL
+x	java:S112¸"FDefine and throw a dedicated exception instead of using a generic one.(ø™º¯ÿÿÿÿÿHÀ‰RMAJORZ
+CODE_SMELL
+p
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(—ÆàßüÿÿÿÿHÁ‰RMINORZ
+CODE_SMELL
+o
+java:S2259¦"HA "NullPointerException" could be thrown; "getString()" can return null.(„ö´HÂ‰RMAJORZBUG
+n
+java:S2259§"HA "NullPointerException" could be thrown; "getString()" can return null.(¢ƒ¼HÅ‰RMAJORZBUG
+L
+java:S2116Œ"%Use "Arrays.toString(array)" instead.(ÖùÑ™HÈ‰RMAJORZBUG
+L
+java:S2116"%Use "Arrays.toString(array)" instead.(áâÌéHÉ‰RMAJORZBUG
+d
+java:S1135£"2Complete the task associated to this TODO comment.(ĞÏ—üÿÿÿÿHÊ‰RINFOZ
+CODE_SMELL
+Y
+java:S1481"+Remove this unused "result" local variable.(ıï‚HË‰RMINORZ
+CODE_SMELL

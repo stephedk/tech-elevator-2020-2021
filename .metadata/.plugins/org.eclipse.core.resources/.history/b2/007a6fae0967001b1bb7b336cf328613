@@ -1,0 +1,88 @@
+package com.techelevator.tenmo.dao;
+
+import com.techelevator.tenmo.model.Account;
+import com.techelevator.tenmo.model.User;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Component;
+import org.springframework.jdbc.support.GeneratedKeyHolder;
+import org.springframework.jdbc.support.rowset.SqlRowSet;
+
+import java.math.BigDecimal;
+import java.sql.PreparedStatement;
+import java.util.ArrayList;
+import java.util.List;
+
+@Component
+public class AccountSqlDAO implements AccountDAO {
+
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+	
+	@Override
+	public List<Account> findAll(Integer accountId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Account findAccountByUserId(Integer userId) {
+		// TODO Auto-generated method stub
+		Account account = null; 
+		
+		String sql = "SELECT account_id\r\n" + 
+				"FROM accounts\r\n" + 
+				"WHERE user_id = ?;  "; 
+		
+		SqlRowSet row = jdbcTemplate.queryForRowSet(sql, userId); 
+		if (row.next()) {
+			
+			account = mapRowToAccount(row); 
+		}
+		
+		return account; 
+	}
+
+	@Override
+	public BigDecimal findBalanceByUserId(Integer userId) {
+		// TODO Auto-generated method stubAccount account = null; 
+		Account account = null; 
+		
+		String sql = "SELECT balance\r\n" + 
+				"FROM accounts\r\n" + 
+				"WHERE user_id = ?; "; 
+		
+		SqlRowSet row = jdbcTemplate.queryForRowSet(sql, userId); 
+		if (row.next()) {
+			
+			account = mapRowToAccount(row); 
+		}
+		
+		return account.getBalance(); 
+	}
+
+	@Override
+	public Account updateBalance(BigDecimal balance) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	private Account mapRowToAccount(SqlRowSet row) {
+		
+		Account account = new Account(); 
+		
+		account.setAccountId(row.getInt("account_id"));
+		account.setUserId(row.getInt("user_id"));
+		account.setBalance(row.getBigDecimal("balance"));
+		return account; 
+	}
+
+	@Override
+	public Account getBalance(Integer UserId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+}

@@ -1,0 +1,108 @@
+
+
+java:S1192¸"`Use already-defined constant 'MAIN_MENU_OPTION_EMPLOYEES' instead of duplicating its value here.(»òéİHß;RCRITICALZ
+CODE_SMELL
+|
+java:S1192"GDefine a constant instead of duplicating this literal "\n*** " 3 times.(àµ°“ùÿÿÿÿHÛ;RCRITICALZ
+CODE_SMELL
+
+java:S1192l"bUse already-defined constant 'MAIN_MENU_OPTION_DEPARTMENTS' instead of duplicating its value here.(öİ°5Hà;RCRITICALZ
+CODE_SMELL
+p
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(…‚íÓøÿÿÿÿHî;RMINORZ
+CODE_SMELL
+p
+java:S1155®">Use isEmpty() to check whether the collection is empty or not.(Ø ¯úÿÿÿÿHì;RMINORZ
+CODE_SMELL
+j	java:S106°"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH…<RMAJORZ
+CODE_SMELL
+i	java:S106N"9Replace this use of System.out or System.err by a logger.(‰æ”‚ûÿÿÿÿHğ;RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿHó;RMAJORZ
+CODE_SMELL
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(ÓßäŸûÿÿÿÿH‚<RMAJORZ
+CODE_SMELL
+e	java:S106ç"9Replace this use of System.out or System.err by a logger.(Š£ñ‹Hü;RMAJORZ
+CODE_SMELL
+j	java:S106Í"9Replace this use of System.out or System.err by a logger.(Ä¢‚‰ûÿÿÿÿH’<RMAJORZ
+CODE_SMELL
+j	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHú;RMAJORZ
+CODE_SMELL
+j	java:S106¿"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH‰<RMAJORZ
+CODE_SMELL
+e	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Ñëé°H<RMAJORZ
+CODE_SMELL
+j	java:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH÷;RMAJORZ
+CODE_SMELL
+j	java:S106¶"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿH„<RMAJORZ
+CODE_SMELL
+e	java:S106ë"9Replace this use of System.out or System.err by a logger.( Æ§¡Hı;RMAJORZ
+CODE_SMELL
+j	java:S106Î"9Replace this use of System.out or System.err by a logger.(Äğ•‡şÿÿÿÿH“<RMAJORZ
+CODE_SMELL
+j	java:S106£"9Replace this use of System.out or System.err by a logger.(£¾ã÷şÿÿÿÿHô;RMAJORZ
+CODE_SMELL
+Š
+java:S1192"UDefine a constant instead of duplicating this literal "\n*** No results ***" 6 times.(ãèùÛşÿÿÿÿHâ;RCRITICALZ
+CODE_SMELL
+j	java:S106³"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿHö;RMAJORZ
+CODE_SMELL
+j	java:S106›"9Replace this use of System.out or System.err by a logger.(·ğ´¸øÿÿÿÿH<RMAJORZ
+CODE_SMELL
+e	java:S106ª"9Replace this use of System.out or System.err by a logger.(Äƒ«·Hƒ<RMAJORZ
+CODE_SMELL
+j	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH<RMAJORZ
+CODE_SMELL
+p
+java:S1155¢">Use isEmpty() to check whether the collection is empty or not.(å¥ÍšøÿÿÿÿHë;RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(†úĞ‹şÿÿÿÿHÿ;RMAJORZ
+CODE_SMELL
+j	java:S106Ê"9Replace this use of System.out or System.err by a logger.(™”¦ ùÿÿÿÿH<RMAJORZ
+CODE_SMELL
+j	java:S106İ"9Replace this use of System.out or System.err by a logger.(òïÈ¦ıÿÿÿÿHû;RMAJORZ
+CODE_SMELL
+j	java:S106¨"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿHõ;RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(àµ°“ùÿÿÿÿHñ;RMAJORZ
+CODE_SMELL
+j	java:S106Ä"9Replace this use of System.out or System.err by a logger.(£šíÆúÿÿÿÿHŠ<RMAJORZ
+CODE_SMELL
+e	java:S106‹"9Replace this use of System.out or System.err by a logger.(êó‰—Hş;RMAJORZ
+CODE_SMELL
+p
+java:S1155‡">Use isEmpty() to check whether the collection is empty or not.(å¥ÍšøÿÿÿÿHê;RMINORZ
+CODE_SMELL
+j	java:S106Ï"9Replace this use of System.out or System.err by a logger.(¨çıãúÿÿÿÿH‹<RMAJORZ
+CODE_SMELL
+j	java:S106à"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿHù;RMAJORZ
+CODE_SMELL
+j	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(£¾ã÷şÿÿÿÿHò;RMAJORZ
+CODE_SMELL
+”
+java:S1192ó"_Use already-defined constant 'MAIN_MENU_OPTION_PROJECTS' instead of duplicating its value here.(×´‡ùÿÿÿÿHá;RCRITICALZ
+CODE_SMELL
+p
+java:S1155±">Use isEmpty() to check whether the collection is empty or not.(ÿ†•øÿÿÿÿHï;RMINORZ
+CODE_SMELL
+e	java:S106°"9Replace this use of System.out or System.err by a logger.(ßÌ—­Hø;RMAJORZ
+CODE_SMELL
+j	java:S106Ì"9Replace this use of System.out or System.err by a logger.(‚ôÔÉùÿÿÿÿH‘<RMAJORZ
+CODE_SMELL
+j	java:S106É"9Replace this use of System.out or System.err by a logger.(¹Ş„ ùÿÿÿÿH<RMAJORZ
+CODE_SMELL
+j	java:S106³"9Replace this use of System.out or System.err by a logger.(¼¯›æøÿÿÿÿH†<RMAJORZ
+CODE_SMELL
+j	java:S106’"9Replace this use of System.out or System.err by a logger.(ãèùÛşÿÿÿÿH€<RMAJORZ
+CODE_SMELL
+j	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(«¯Ï’úÿÿÿÿHŒ<RMAJORZ
+CODE_SMELL
+j	java:S106½"9Replace this use of System.out or System.err by a logger.(¹¦Ô„ÿÿÿÿÿHˆ<RMAJORZ
+CODE_SMELL
+N
+java:S2189\""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHé;RBLOCKERZBUG
+k
+java:S1155Û">Use isEmpty() to check whether the collection is empty or not.(…“ö¾Hí;RMINORZ
+CODE_SMELL
+j	java:S106»"9Replace this use of System.out or System.err by a logger.(ÌÆñËÿÿÿÿÿH‡<RMAJORZ
+CODE_SMELL

@@ -1,0 +1,36 @@
+
+[
+java:S3740j"/Provide the parametrized type for this generic.(ûÂÆ€HhRMAJORZ
+CODE_SMELL
+N
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿHŸhRBLOCKERZBUG
+f
+java:S1141]"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿH hRMAJORZ
+CODE_SMELL
+	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸáïøÿÿÿÿH¢hRMINORZ
+CODE_SMELL
+k
+java:S2259l"FA "NullPointerException" could be thrown; "getBody()" can return null.(‡¡¥©H£hRMAJORZBUG
+n
+java:S1854ˆ"ARemove this useless assignment to local variable "menuSelection".(ìéÃğH¦hRMAJORZ
+CODE_SMELL
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 92 to the 15 allowed.(Çµí‘H§hRCRITICALZ
+CODE_SMELL
+v
+java:S2147"ECombine this catch with the one at line 124, which has the same body.(é¹¥ışÿÿÿÿHÌhRMINORZ
+CODE_SMELL
+r
+java:S2147‚"ECombine this catch with the one at line 124, which has the same body.(¸õ™ÈHÎhRMINORZ
+CODE_SMELL
+d	java:S106="9Replace this use of System.out or System.err by a logger.(Œ¦ˆHĞhRMAJORZ
+CODE_SMELL
+d	java:S106O"9Replace this use of System.out or System.err by a logger.(Œ¦ˆHÑhRMAJORZ
+CODE_SMELL
+f
+java:S2209m"5Change this instance-reference to a static reference.(®çìÿşÿÿÿÿHÒhRMAJORZ
+CODE_SMELL
+i	java:S106n"9Replace this use of System.out or System.err by a logger.(Ì‡×—üÿÿÿÿHÓhRMAJORZ
+CODE_SMELL
+d	java:S106v"9Replace this use of System.out or System.err by a logger.(ãöö«HÔhRMAJORZ
+CODE_SMELL

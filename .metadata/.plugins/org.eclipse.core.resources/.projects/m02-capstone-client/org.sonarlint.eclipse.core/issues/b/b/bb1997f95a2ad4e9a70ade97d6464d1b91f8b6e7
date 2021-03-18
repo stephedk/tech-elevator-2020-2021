@@ -1,0 +1,9 @@
+
+[
+java:S37405"/Provide the parametrized type for this generic.(—‘‚ÆHùuRMAJORZ
+CODE_SMELL
+
+java:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "entity".(ÎŸŒÀúÿÿÿÿHúuRMINORZ
+CODE_SMELL
+~	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¢ÁHûuRMINORZ
+CODE_SMELL

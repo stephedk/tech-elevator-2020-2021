@@ -1,0 +1,7 @@
+
+
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "catPic".(¹­èıÿÿÿÿHÚjRMINORZ
+CODE_SMELL
+·
+java:S1130"…Remove the declaration of thrown exception 'org.springframework.web.client.RestClientResponseException' which is a runtime exception.(üÍı£şÿÿÿÿHÛjRMINORZ
+CODE_SMELL

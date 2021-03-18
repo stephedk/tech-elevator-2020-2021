@@ -1,0 +1,13 @@
+
+k
+java:S2259F"FA "NullPointerException" could be thrown; "getDate()" can return null.(ÿŽªÊH¥GRMAJORZBUG
+p
+java:S2259E"FA "NullPointerException" could be thrown; "getDate()" can return null.(²ÞÎ¹þÿÿÿÿH¨GRMAJORZBUG
+p
+java:S2259D"FA "NullPointerException" could be thrown; "getDate()" can return null.(Ø¤—¯ÿÿÿÿÿH«GRMAJORZBUG
+d
+java:S1128"8Remove this unused import 'com.techelevator.model.Site'.(ºý¸¯H®GRMINORZ
+CODE_SMELL
+i
+java:S2479":Remove the non-escaped \u0009 character from this literal.(‚Ú¡ÈH¯GRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+€
+java:S4488j"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ýº²ÃùÿÿÿÿHÞ‰RMINORZ
+CODE_SMELL
+w
+java:S4488#"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ú¿ÌãHÓ‰RMINORZ
+CODE_SMELL
+u
+java:S4488E"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÆøîçHÙ‰RMINORZ
+CODE_SMELL
+z
+java:S4488X"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(§éÑÿÿÿÿÿHÛ‰RMINORZ
+CODE_SMELL
+u
+java:S4488>"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Äƒ±ŸH×‰RMINORZ
+CODE_SMELL
+u
+java:S44887"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú‘µ¤HÕ‰RMINORZ
+CODE_SMELL
+Z	java:S108a")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿHÝ‰RMAJORZ
+CODE_SMELL

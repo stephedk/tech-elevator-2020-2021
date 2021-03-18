@@ -1,0 +1,23 @@
+
+y
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™šœßıÿÿÿÿHåhRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùÉúøÿÿÿÿHßhRMINORZ
+CODE_SMELL
+{
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(íéÖ¨üÿÿÿÿHçhRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ùÉúøÿÿÿÿHàhRMINORZ
+CODE_SMELL
+t
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(€¬ıÙHãhRMINORZ
+CODE_SMELL
+t
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ïüòØHéhRMINORZ
+CODE_SMELL
+”
+java:S1488F"\Immediately return this expression instead of assigning it to the temporary variable "user".(êÔ¼üÿÿÿÿ8˜Ç¢ÿõ.HÌjRMINORZ
+CODE_SMELL
+z
+java:S4488="NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(âÚıØHëhRMINORZ
+CODE_SMELL

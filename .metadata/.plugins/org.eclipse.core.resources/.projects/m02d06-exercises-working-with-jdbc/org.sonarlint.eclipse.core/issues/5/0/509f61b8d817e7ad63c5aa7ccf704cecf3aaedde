@@ -1,0 +1,51 @@
+
+…
+java:S1192p"VDefine a constant instead of duplicating this literal "SELECT department_id " 3 times.(˜Ãµ±HÅ^RCRITICALZ
+CODE_SMELL
+d	java:S106:"9Replace this use of System.out or System.err by a logger.(Ğˆ‹¥H×^RMAJORZ
+CODE_SMELL
+i	java:S106D"9Replace this use of System.out or System.err by a logger.(ÜóŸ‹úÿÿÿÿHÔ^RMAJORZ
+CODE_SMELL
+~
+java:S1192q"JDefine a constant instead of duplicating this literal "		, name " 3 times.(‡‘ŸÁùÿÿÿÿHÁ^RCRITICALZ
+CODE_SMELL
+e	java:S106£"9Replace this use of System.out or System.err by a logger.(Â–‘öHÚ^RMAJORZ
+CODE_SMELL
+a
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿHÉ^RMINORZ
+CODE_SMELL
+j	java:S106°"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÎ^RMAJORZ
+CODE_SMELL
+j	java:S106¨"9Replace this use of System.out or System.err by a logger.(éğØûÿÿÿÿHÛ^RMAJORZ
+CODE_SMELL
+o
+java:S2479‡":Remove the non-escaped \u0009 character from this literal.(‡‘ŸÁùÿÿÿÿHÓ^RCRITICALZ
+CODE_SMELL
+e	java:S106—"9Replace this use of System.out or System.err by a logger.(‰äè®HÖ^RMAJORZ
+CODE_SMELL
+d	java:S106K"9Replace this use of System.out or System.err by a logger.(ÒŸ‰¦HÜ^RMAJORZ
+CODE_SMELL
+i	java:S106h"9Replace this use of System.out or System.err by a logger.(øó˜ûúÿÿÿÿHİ^RMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ëÓÊ¬øÿÿÿÿHÍ^RMAJORZ
+CODE_SMELL
+j	java:S106®"9Replace this use of System.out or System.err by a logger.(É¤·îûÿÿÿÿHÙ^RMAJORZ
+CODE_SMELL
+j	java:S106“"9Replace this use of System.out or System.err by a logger.(É¤·îûÿÿÿÿHÑ^RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(É¤·îûÿÿÿÿHÏ^RMAJORZ
+CODE_SMELL
+j	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ÆÏ¥øÿÿÿÿHŞ^RMAJORZ
+CODE_SMELL
+o
+java:S2479Ÿ":Remove the non-escaped \u0009 character from this literal.(‡‘ŸÁùÿÿÿÿHØ^RCRITICALZ
+CODE_SMELL
+n
+java:S2479q":Remove the non-escaped \u0009 character from this literal.(‡‘ŸÁùÿÿÿÿHÕ^RCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ôø¥°üÿÿÿÿHÊ^RMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(èéÿÿÿÿÿHĞ^RMAJORZ
+CODE_SMELL
+j	java:S106Å"9Replace this use of System.out or System.err by a logger.(“º¯ªıÿÿÿÿHÒ^RMAJORZ
+CODE_SMELL

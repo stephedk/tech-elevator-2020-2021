@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ü²§Áşÿÿÿÿ8üÃ×õ.HŸeRMAJORZ
+CODE_SMELL
+n	java:S125."<This block of commented-out lines of code should be removed.(÷ Í¼8Ñ¯„×õ.H eRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Ş­˜şÿÿÿÿ8üÃ×õ.H«eRMAJORZ
+CODE_SMELL
+
+java:S1104"XMake restTemplate a static final constant or non-public and provide accessors if needed.(²¨¯ñıÿÿÿÿ8Ñ¯„×õ.H¬eRMINORZ
+CODE_SMELL
+|
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8Ñ¯„×õ.H­eRMINORZ
+CODE_SMELL
+n	java:S125&"<This block of commented-out lines of code should be removed.(ü¯¡8Ñ¯„×õ.H®eRMAJORZ
+CODE_SMELL

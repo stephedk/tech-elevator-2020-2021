@@ -1,0 +1,30 @@
+
+\
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛHÚ)RMINORZ
+CODE_SMELL
+|
+java:S20959"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¢ô¸8ˆ”í.HÛ)RBLOCKERZBUG
+|
+java:S2095;"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(™´Ûùşÿÿÿÿ8ˆ”í.HÜ)RBLOCKERZBUG
+h
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ˆ”í.Hİ)RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(À Õßşÿÿÿÿ8ˆ”í.HŞ)RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(ëê†•8ˆ”í.Hß)RMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.( £‰8ˆ”í.Hà)RMAJORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(Âä‘Ü8ˆ”í.Há)RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(¼ÀğÒøÿÿÿÿ8ˆ”í.Hæ)RMAJORZ
+CODE_SMELL
+n	java:S125/"<This block of commented-out lines of code should be removed.(Ô”şŞ8ˆ”í.Hç)RMAJORZ
+CODE_SMELL
+s	java:S125:"<This block of commented-out lines of code should be removed.(–‡•Ğşÿÿÿÿ8ˆ”í.Hé)RMAJORZ
+CODE_SMELL
+s	java:S125B"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ˆ”í.Hê)RMAJORZ
+CODE_SMELL
+d
+java:S1135G"2Complete the task associated to this TODO comment.(‡ñÅ¼8ˆ”í.Hì)RINFOZ
+CODE_SMELL

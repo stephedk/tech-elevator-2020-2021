@@ -1,0 +1,44 @@
+
+z
+java:S1128"IRemove this unused import 'com.techelevator.tenmo.model.RegisterUserDTO'.(º…÷ÁÿÿÿÿÿHàtRMINORZ
+CODE_SMELL
+q
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤ŠúÿÿÿÿHãtRMINORZ
+CODE_SMELL
+d
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿHátRMINORZ
+CODE_SMELL
+
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.ResponseStatus'.(¯×ñHætRMINORZ
+CODE_SMELL
+€
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŒñóÄıÿÿÿÿ8Ô—È÷ö.HëwRMINORZ
+CODE_SMELL
+s
+java:S1128"BRemove this unused import 'com.techelevator.tenmo.model.LoginDTO'.(³ã€±ÿÿÿÿÿHçtRMINORZ
+CODE_SMELL
+
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½ÀıÿÿÿÿHâtRMINORZ
+CODE_SMELL
+“
+java:S14881"`Immediately return this expression instead of assigning it to the temporary variable "accounts".(«ÀıØ8ˆı²÷ö.H”wRMINORZ
+CODE_SMELL
+r
+java:S1128
+"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿHİtRMINORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHätRMINORZ
+CODE_SMELL
+•
+java:S1488>"]Immediately return this expression instead of assigning it to the temporary variable "users".(ÿÎØ¨øÿÿÿÿ8Ô—È÷ö.HèwRMINORZ
+CODE_SMELL
+’
+java:S14888"_Immediately return this expression instead of assigning it to the temporary variable "balance".(“»÷8Ô—È÷ö.HçwRMINORZ
+CODE_SMELL
+v
+java:S1128"JRemove this unused import 'com.fasterxml.jackson.annotation.JsonProperty'.(ËÃ§ÏHÜtRMINORZ
+CODE_SMELL
+€
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ØÇ¨Éıÿÿÿÿ8Ô—È÷ö.HéwRMINORZ
+CODE_SMELL

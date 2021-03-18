@@ -1,0 +1,35 @@
+package com.techelevator;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.util.Scanner;
+
+public class WordCount {
+
+	public static void main(String[] args) {
+		
+//		readAliceInWonderlandFile();
+//		
+//	}
+//
+//	private static void readAliceInWonderlandFile() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+
+	public static void readWordCount()
+	{
+		
+		String filePath = "alices_adventures_in_wonderland.txt";
+		File aliceAdventure = new File(filePath);
+		
+		Scanner scanner= new Scanner(aliceAdventure);
+		
+		
+		
+		
+		
+	}
+	}
+

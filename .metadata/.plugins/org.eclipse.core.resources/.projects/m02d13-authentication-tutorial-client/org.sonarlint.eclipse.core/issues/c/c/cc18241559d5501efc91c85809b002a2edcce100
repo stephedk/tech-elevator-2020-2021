@@ -1,0 +1,22 @@
+
+[
+java:S37406"/Provide the parametrized type for this generic.(ûÂÆ€H¹fRMAJORZ
+CODE_SMELL
+	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¯¢¶ûÿÿÿÿHºfRMINORZ
+CODE_SMELL
+k
+java:S22598"FA "NullPointerException" could be thrown; "getBody()" can return null.(‡¡¥©H»fRMAJORZBUG
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘H¾fRCRITICALZ
+CODE_SMELL
+p
+java:S2147P"DCombine this catch with the one at line 77, which has the same body.(Ì÷ú¹HÏfRMINORZ
+CODE_SMELL
+u
+java:S2147S"DCombine this catch with the one at line 77, which has the same body.(Å®Á“şÿÿÿÿHÑfRMINORZ
+CODE_SMELL
+f
+java:S22099"5Change this instance-reference to a static reference.(€…Ã†ûÿÿÿÿHÓfRMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(Ì‡×—üÿÿÿÿHÔfRMAJORZ
+CODE_SMELL

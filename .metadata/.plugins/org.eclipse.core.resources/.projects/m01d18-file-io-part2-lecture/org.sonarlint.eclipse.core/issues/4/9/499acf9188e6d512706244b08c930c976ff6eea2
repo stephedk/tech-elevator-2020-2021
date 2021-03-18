@@ -1,0 +1,20 @@
+
+o
+java:S1854"=Remove this useless assignment to local variable "userInput".( ¿Š]8ÅÖí.Hí)RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÅúÅ§şÿÿÿÿ8ÅÖí.Hî)RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Â¾ŞÛ8ÅÖí.Hï)RMAJORZ
+CODE_SMELL
+d
+java:S1135,"2Complete the task associated to this TODO comment.(‡ñÅ¼8ÅÖí.Hğ)RINFOZ
+CODE_SMELL
+‘
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÒÍêøÿÿÿÿ8ÅÖí.Hñ)RMINORZ
+CODE_SMELL
+d
+java:S1135O"2Complete the task associated to this TODO comment.(‡ñÅ¼8ÅÖí.Hò)RINFOZ
+CODE_SMELL
+`
+java:S1481".Remove this unused "userInput" local variable.( ¿Š]8ÅÖí.Hó)RMINORZ
+CODE_SMELL
