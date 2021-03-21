@@ -1,0 +1,56 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+/* all hero layouts */
+#hero footer
+{
+    display: flex;
+
+    justify-content: space-between;
+}
+
+
+/* featured layouts */
+#featured > section
+{
+    display: flex;
+}
+
+#featured > section > article:nth-child(even) {
+  border-left: 20px solid darkcyan;
+  border-right: 20px solid darkcyan;
+}
+
+/* all food items */
+#all-items > section > article
+{
+    display: flex;
+}
+
+#all-items > section > article > div:last-child
+{
+    flex-basis: 80%;
+}
+
+#all-items > section > article:nth-child(even) > div:first-child
+{
+    order: 2;
+}
+
+@media screen and (max-width: 768px)
+{
+    #featured >  section
+    {
+        flex-wrap: wrap;
+    }
+
+    #featured > section > article:nth-child(even) 
+    {
+        border: none;
+    }
+}

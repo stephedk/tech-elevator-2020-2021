@@ -1,0 +1,13 @@
+Thank you for shopping at our store
+--------------------------------------------------------------------------
+2021-01-06
+
+E194   Echo Buds                           $ 129.99     1     $     129.99
+A153   Custom Print Cloth Mask             $   6.99     1     $       6.99
+E219   Beats Solo Wireless Headphones      $ 299.95     2     $     599.90
+A151   Black Cloth Mask                    $   5.99     2     $      11.98
+--------------------------------------------------------------------------
+Cart Total:                                                   $     748.86
+Payment:                                                      $     750.00
+Change:                                                       $       1.14
+

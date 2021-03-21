@@ -1,0 +1,84 @@
+/* focus here is the ENTIRE page layout */
+
+div.container 
+{
+    /* CSS3 introduces GRID */
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    gap: 10px;
+
+    grid-template-areas: 
+        "logo logo logo"
+        "menu-nav main upcoming-events"
+        "footer footer footer"
+    ;
+}
+
+header
+{
+    grid-area: logo;
+}
+
+nav
+{
+    grid-area: menu-nav;
+}
+
+main
+{
+    grid-area: main;
+}
+
+aside
+{
+    grid-area: upcoming-events;
+}
+
+footer
+{
+    grid-area: footer;
+}
+
+@media screen and (max-width: 768px) 
+{
+    /* this is the mobile design */
+    header 
+    {
+        text-align: left !important;
+    }
+
+    div.container 
+    {
+        grid-template-columns: 1fr;
+
+        grid-template-areas: 
+            "logo"
+            "menu-nav"
+            "main"
+            "upcoming-events"
+            "footer"
+        ;
+    }
+
+}
+
+@media screen and (max-width: 500px) 
+{
+    /* this is the mobile design */
+    div.container 
+    {
+        grid-template-columns: 1fr;
+
+        grid-template-areas: 
+            "menu-nav"
+            "main"
+            "footer"
+        ;
+
+    }
+
+    header, aside {
+        display: none !important;
+    }
+
+}

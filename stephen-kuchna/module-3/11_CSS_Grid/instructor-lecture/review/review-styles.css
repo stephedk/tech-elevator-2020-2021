@@ -1,0 +1,10 @@
+
+a[target]
+{
+    color: red
+}
+
+section > p:hover
+{
+    background-color:rgb(197, 184, 179);
+}

@@ -1,0 +1,40 @@
+/* focus here is the ENTIRE page layout */
+
+div.container 
+{
+    /* CSS3 introduces GRID */
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+    gap: 10px;
+}
+
+header
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+nav
+{
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+
+main
+{
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+
+aside
+{
+    grid-column-start: 3;
+    grid-row-start: 2;
+}
+
+footer
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+}

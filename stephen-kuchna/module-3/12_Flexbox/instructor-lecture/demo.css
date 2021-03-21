@@ -1,0 +1,34 @@
+
+div
+{
+    display: flex;
+    flex-direction: row; /* default - row */
+
+    justify-content:space-around;
+    /* align-items: center; */
+
+    height: 100%;
+    background-color: rgb(190, 186, 143);
+}
+
+button
+{
+    border: solid 1px black;
+    border-radius: 5px;;
+}
+
+#button1
+{
+    background-color: chartreuse;
+}
+
+#button2
+{
+    background-color:green;
+}
+
+#button3
+{
+    background-color: brown;
+    
+}

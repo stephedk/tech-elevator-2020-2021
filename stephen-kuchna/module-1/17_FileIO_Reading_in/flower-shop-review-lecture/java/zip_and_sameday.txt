@@ -1,0 +1,7 @@
+10000|false
+19999|true
+20000|false
+2999a|false
+30000|true
+39999|false
+41012|true

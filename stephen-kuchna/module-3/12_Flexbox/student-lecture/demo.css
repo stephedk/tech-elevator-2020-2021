@@ -1,0 +1,23 @@
+div{
+    display: flex; 
+    flex-direction: row;
+    height: 100%; 
+    /* justify-content: center; */
+    background-color: rgb(170, 158, 52);
+}
+
+button{
+    border: solid 1px black;
+    border-radius: 5px;
+}
+#button1{
+    background-color: chartreuse;
+}
+
+#button2{
+    background-color: green;
+}
+
+#button3{
+    background-color: darkred;
+}

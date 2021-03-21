@@ -1,0 +1,15 @@
+File Name: sly_fox.txt
+File Size: 999558213632
+Words: 1453
+Sentences: 113
+
+File Name: names.txt
+File Size: 999558213632
+Words: 50
+Sentences: 0
+
+File Name: beauty_and_the_beast.txt
+File Size: 999558213632
+Words: 1372
+Sentences: 109
+

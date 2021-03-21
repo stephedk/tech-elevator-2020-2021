@@ -1,0 +1,11 @@
+Thank you for shopping at our store
+--------------------------------------------------------------------------
+
+A151   Black Cloth Mask                    $   5.99     2     $      11.98
+A153   Custom Print Cloth Mask             $   6.99     3     $      20.97
+E219   Beats Solo Wireless Headphones      $ 299.95     2     $     599.90
+--------------------------------------------------------------------------
+Cart Total:                                                   $     632.85
+Payment:                                                      $     650.00
+Change:                                                       $      17.15
+
