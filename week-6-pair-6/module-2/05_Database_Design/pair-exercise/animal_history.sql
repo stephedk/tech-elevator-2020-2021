@@ -1,0 +1,50 @@
+DROP TABLE IF EXISTS pet;
+DROP TABLE IF EXISTS visit;
+DROP TABLE IF EXISTS owner;
+DROP TABLE IF EXISTS procedure;
+DROP TABLE IF EXISTS cost;
+DROP TABLE IF EXISTS invoice;
+DROP TABLE IF EXISTS pet_type; 
+
+CREATE TABLE owner
+(
+	owner_id SERIAL NOT NULL PRIMARY KEY
+	, first_name VARCHAR(50) NOT NULL
+	, last_name VARCHAR(50) NOT NULL
+	, address VARCHAR (50) NOT NULL
+	, city VARCHAR (20) NOT NULL
+	, state CHAR (2) NOT NULL
+	, zip VARCHAR (10) NOT NULL
+); 
+
+CREATE TABLE pet
+(
+	pet_id SERIAL NOT NULL PRIMARY KEY
+	pet_name VARCHAR (50) NOT NULL
+	pet_type_id INTEGER NOT NULL
+	pet_age INTEGER NOT NULL
+	owner_id INTEGER NOT NULL
+);
+
+CREATE TABLE pet_type
+(
+	pet_type_id INTEGER NOT NULL PRIMARY KEY
+	pet_type VARCHAR(20)
+);
+
+
+CREATE TABLE visit
+(
+	pet_id INTEGER NOT NULL
+	visit_date DATE NOT NULL
+	procedure_id INTEGER NOT NULL
+);
+
+CREATE TABLE invoice
+(
+	invoice_id SERIAL NOT NULL PRIMARY KEY
+	owner_id INTEGER NOT NULL
+	invoice_date DATE NOT NULL
+	
+	
+);
